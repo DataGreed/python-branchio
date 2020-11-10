@@ -19,6 +19,7 @@ DATA_BRANCH_FIRE_URL = "$fire_url"
 DATA_BRANCH_BLACKBERRY_URL = "$blackberry_url"
 DATA_BRANCH_WINDOWS_PHONE_URL = "$windows_phone_url"
 DATA_BRANCH_AFTER_CLICK_URL = "$after_click_url"  # iOS only.  It is after the user has gone to the app
+DATA_BRANCH_MARKETING_TITLE = "$marketing_title"  # title for Branch Dashboard
 
 DATA_BRANCH_DEEPLINK_PATH = "$deeplink_path"
 DATA_BRANCH_ALWAYS_DEEPLINK = "$always_deeplink"
