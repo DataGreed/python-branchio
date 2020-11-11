@@ -7,6 +7,17 @@ DATA_FB_OG_IMAGE_URL = "$og_image_url"
 DATA_FB_OG_VIDEO = "$og_video"
 DATA_FB_OG_URL = "$og_url"
 
+# twitter card tags
+DATA_TWITTER_CARD = "$twitter_card"
+DATA_TWITTER_TITLE = "$twitter_title"
+DATA_TWITTER_DESCRIPTION = "$twitter_description"
+DATA_TWITTER_IMAGE_URL = "$twitter_image_url"
+DATA_TWITTER_SITE = "$twitter_site"
+DATA_TWITTER_APP_COUNTRY = "$twitter_app_country"
+DATA_TWITTER_PLAYER = "$twitter_player"
+DATA_TWITTER_PLAYER_WIDTH = "$twitter_player_width"
+DATA_TWITTER_PLAYER_HEIGHT = "$twitter_player_height"
+
 # Used to bypass Branch's OG tags
 DATA_FB_OG_REDIRECT = "$og_redirect"
 
